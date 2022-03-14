@@ -1,7 +1,7 @@
 require("@nomiclabs/hardhat-waffle");
 require("dotenv").config();
 
-// 0x0e3D00A1c3ee7B7E12E37E83E6544a79fC7BaEc5
+// 0x224fB180f46882C41F1f23Fb8b884bdB30ED7859
 
 module.exports = {
   solidity: "0.8.7",
