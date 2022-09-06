@@ -1,0 +1,32 @@
+.myProperty {
+  padding: 2rem 10rem;
+}
+
+.myProperty h1 {
+  font-size: 46px;
+  color: #444;
+  margin: 40px 0;
+}
+
+.propertyBorder {
+  display: flex;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+}
+
+.property {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 40px 20px 20px;
+  width: 350px;
+  box-shadow: 2px 2px 10px #33333350;
+  margin: 1rem 0;
+}
+
+.box {
+  width: 250px;
+  height: 250px;
+  background-color: #444;
+  border-radius: 4px;
+}
